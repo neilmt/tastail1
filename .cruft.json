@@ -1,0 +1,26 @@
+{
+  "template": "https://github.com/arup-group/cookiecutter-pypackage",
+  "commit": "404dbbb61caaa8fc3d69133d1c5d2c9f00f1b372",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Neil Montague",
+      "email": "neil.montague@arup.com",
+      "github_username": "neilmt",
+      "repository_org": "arup-group",
+      "project_name": "Tastail 1",
+      "project_slug": "tastail1",
+      "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
+      "index_package": "conda",
+      "conda_channel": "neilmt",
+      "version": "0.1.0",
+      "command_line_interface": "y",
+      "create_docker_file": "y",
+      "create_author_file": "y",
+      "create_jupyter_notebook_directory": "y",
+      "open_source_license": "MIT license",
+      "_template": "https://github.com/arup-group/cookiecutter-pypackage"
+    }
+  },
+  "directory": null
+}
